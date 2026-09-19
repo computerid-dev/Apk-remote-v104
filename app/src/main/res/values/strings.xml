@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remote BT</string>
+
+    <string name="title_paired_devices">Perangkat Terpasang</string>
+    <string name="btn_refresh">Segarkan</string>
+    <string name="btn_become_server">Jadi Server</string>
+    <string name="btn_stop_server">Hentikan Server</string>
+    <string name="btn_send">Kirim</string>
+
+    <string name="hint_command">Ketik perintah…</string>
+
+    <string name="status_idle">Belum terhubung</string>
+    <string name="status_waiting_connection">Menunggu koneksi masuk…</string>
+    <string name="status_connected">Terhubung ke %1$s</string>
+    <string name="status_disconnected">Koneksi terputus</string>
+
+    <string name="empty_device_list">Tidak ada perangkat terpasang.\nPasangkan (pairing) perangkat lewat pengaturan Bluetooth terlebih dahulu.</string>
+
+    <string name="error_bluetooth_not_supported">Perangkat ini tidak mendukung Bluetooth</string>
+    <string name="error_bluetooth_disabled">Bluetooth belum aktif</string>
+    <string name="error_permission_denied">Izin Bluetooth diperlukan untuk menggunakan fitur ini</string>
+</resources>
